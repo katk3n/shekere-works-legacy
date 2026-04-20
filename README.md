@@ -1,4 +1,8 @@
-# shekere-works
+# shekere-works (EOLed)
+
+> [!CAUTION]
+> This Bevy/WGSL based version of Shekere is EOLed.
+> Now Shekere has been reimplemented as Three.js based version. See https://github.com/katk3n/shekere-works
 
 A collection of shader art works created with the [shekere](https://github.com/katk3n/shekere) framework.
 
